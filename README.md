@@ -1,8 +1,8 @@
 # udemy-clone-project-1
 
 # Technologies Used
-Html
-CSS
+-Html
+-CSS
 
 # Purpose
 A simple clone project using simple html and css.
